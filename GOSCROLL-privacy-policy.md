@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy Policy"
 permalink: /goscroll/privacy/
+---
 
 **Privacy Policy**
 
