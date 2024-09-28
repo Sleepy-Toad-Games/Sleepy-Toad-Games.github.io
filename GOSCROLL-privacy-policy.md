@@ -1,6 +1,6 @@
 layout: page
 title: "Privacy Policy"
-permalink: /goscroll/privacy
+permalink: /goscroll/privacy/
 
 **Privacy Policy**
 
